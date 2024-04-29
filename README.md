@@ -50,6 +50,8 @@ print(accuracy)
 
 ## Output:
 ![image](https://github.com/Gokkul-M/Implementation-of-SVM-For-Spam-Mail-Detection/assets/144870543/1fcb6e3a-348d-42a5-86a3-e26db43f0bae)
+![image](https://github.com/Gokkul-M/Implementation-of-SVM-For-Spam-Mail-Detection/assets/144870543/fe431058-12ea-4604-ae1e-22ce949ed74e)
+
 
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
